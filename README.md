@@ -58,6 +58,22 @@ Tabla 1.3 Verificación de la LCK.
 
 ![](https://user-images.githubusercontent.com/84397282/120415498-3d04e480-c321-11eb-90a6-1e13ece355e8.jpg)
 
-![](https://user-images.githubusercontent.com/84397282/120415499-3d04e480-c321-11eb-9d4b-4a242ae23ba5.png)
+![](https://user-images.githubusercontent.com/84397282/120415499-3d04e480-c321-11eb-9d4b-4a242ae23ba5.png
+
+4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.
+
+5. VIDEO.
+
+6. CONCLUSIONES .
+
+-Las medidas del simulador coinciden con las respuestas del proceso matemático.
+
+- Luego de haber realizado las simulaciones se pudo entender cómo realizar mediciones de forma correcta con el multímetro y su forma de uso, además para medir la intensidad el amperímetro se conecta en serie. Un amperímetro tiene una resistencia interna muy pequeña 
+
+-
+
+
+7.BIBLIOGRAFÍA.
+-Robbins,Allan H y Miller, Wilhem C.(2008).ANALISIS DE CIRCUITOS. 
 
 
