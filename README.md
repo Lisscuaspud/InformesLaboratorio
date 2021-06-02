@@ -32,5 +32,10 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
+![](https://user-images.githubusercontent.com/84998005/120411022-b993c500-c319-11eb-8083-74060a4328b4.png)
+
+![](https://user-images.githubusercontent.com/84998005/120411016-b7ca0180-c319-11eb-94c7-655898fa3a83.png)
+
+
 
 
