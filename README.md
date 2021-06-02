@@ -52,4 +52,12 @@ Tabla 1.3 Verificación de la LCK.
 
 ![](https://user-images.githubusercontent.com/84397282/120415492-3bd3b780-c321-11eb-829d-47d5573e333a.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/120415495-3c6c4e00-c321-11eb-853d-bd3000e44cb1.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120415497-3d04e480-c321-11eb-9f21-82aa695cbdad.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120415498-3d04e480-c321-11eb-90a6-1e13ece355e8.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120415499-3d04e480-c321-11eb-9d4b-4a242ae23ba5.png)
+
 
