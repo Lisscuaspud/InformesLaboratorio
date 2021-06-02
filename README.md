@@ -40,4 +40,11 @@ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 Tabla 1.2 Verificación de la LVK.  
 
+![](https://user-images.githubusercontent.com/84998005/120414590-d3d0a180-c31f-11eb-8772-766a579ccea4.png)
+
+![](https://user-images.githubusercontent.com/84998005/120414582-d16e4780-c31f-11eb-958b-7e4f49ed6c1e.png)
+
+![](https://user-images.githubusercontent.com/84998005/120414597-d6cb9200-c31f-11eb-8038-4e9808a605e0.png)
+
+
 
