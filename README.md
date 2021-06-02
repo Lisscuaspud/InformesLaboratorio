@@ -26,9 +26,22 @@ Analizar y demostrar a través de un medio práctico la ley de voltaje y corrien
 
 ![](https://user-images.githubusercontent.com/84998005/120408455-afbb9300-c314-11eb-8ee4-5a80177847dd.png)
 
+
+
+-Nos dirigimos al simulador virtual (tinkercad) .
+
+-Teniendo en cuenta el circuito a realizarse buscamos en la opción, componentes-básico los accesorios que vamos a usar en este caso una placa de prueba pequeña, 5 resistencias, suministro de energía y el multímetro. 
+  
+-Comenzamos ubicando las resistencias en la placa de acuerdo al gráfico dado. 
+   
+ -Por consiguiente colocamos los cables de modo que se arme  el circuito requerido. 
+ 
+ -Polarizamos la placa y procedemos alimentar el circuito conectando los cables al suministro de energía. 
+    
+ -Y Finalmente se pueden tomar las mediciones de voltaje e intensidad. 
+
+
 **Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1**
-
-
 
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
@@ -62,8 +75,6 @@ Tabla 1.3 Verificación de la LCK.
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.
 
-![](https://user-images.githubusercontent.com/84397282/120422677-65471000-c32e-11eb-881c-1cfbb3475864.jpg)
-
 5. VIDEO.
 
 6. CONCLUSIONES .
@@ -72,12 +83,10 @@ Tabla 1.3 Verificación de la LCK.
 
 - Luego de haber realizado las simulaciones se pudo entender cómo realizar mediciones de forma correcta con el multímetro y su forma de uso, además para medir la intensidad el amperímetro se conecta en serie. Un amperímetro tiene una resistencia interna muy pequeña 
 
-- Al usar un simulador en donde el error humano no forma parte de las mediciones, el error entre los datos apenas y se llega a notar, es un error descartable que practicamente es cero
+-
 
 
 7.BIBLIOGRAFÍA.
 -Robbins,Allan H y Miller, Wilhem C.(2008).ANALISIS DE CIRCUITOS. 
 
--Simulador de diagramas (https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage)
 
-- Tinkercad (https://www.tinkercad.com/things/6IbyCubG4qz-tremendous-turing/editel?tenant=circuits)
