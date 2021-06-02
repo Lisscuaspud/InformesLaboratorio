@@ -75,6 +75,8 @@ Tabla 1.3 Verificación de la LCK.
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.
 
+![](https://user-images.githubusercontent.com/84397282/120422677-65471000-c32e-11eb-881c-1cfbb3475864.jpg)
+
 5. VIDEO.
 
 6. CONCLUSIONES .
@@ -83,10 +85,14 @@ Tabla 1.3 Verificación de la LCK.
 
 - Luego de haber realizado las simulaciones se pudo entender cómo realizar mediciones de forma correcta con el multímetro y su forma de uso, además para medir la intensidad el amperímetro se conecta en serie. Un amperímetro tiene una resistencia interna muy pequeña 
 
--
+- Al realizar el laboratorio a traves de un simulador se elimina por completo el error humano que se puede producir generando que el error sea totalmente despreciable al momento de realizar los calculos necesarios 
 
 
 7.BIBLIOGRAFÍA.
 -Robbins,Allan H y Miller, Wilhem C.(2008).ANALISIS DE CIRCUITOS. 
+
+-Simulador de diagramas (https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage)
+
+-Tinkercad (https://www.tinkercad.com/things/6IbyCubG4qz-tremendous-turing/editel?tenant=circuits)
 
 
