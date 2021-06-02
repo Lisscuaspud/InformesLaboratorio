@@ -58,7 +58,7 @@ Tabla 1.3 Verificación de la LCK.
 
 ![](https://user-images.githubusercontent.com/84397282/120415498-3d04e480-c321-11eb-90a6-1e13ece355e8.jpg)
 
-![](https://user-images.githubusercontent.com/84397282/120415499-3d04e480-c321-11eb-9d4b-4a242ae23ba5.png
+![](https://user-images.githubusercontent.com/84397282/120415499-3d04e480-c321-11eb-9d4b-4a242ae23ba5.png)
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.
 
