@@ -36,6 +36,8 @@ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 ![](https://user-images.githubusercontent.com/84998005/120411016-b7ca0180-c319-11eb-94c7-655898fa3a83.png)
 
+Verifique si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados.
 
+Tabla 1.2 Verificación de la LVK.  
 
 
