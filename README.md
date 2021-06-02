@@ -89,6 +89,7 @@ Tabla 1.3 Verificación de la LCK.
 
 
 7.BIBLIOGRAFÍA.
+
 -Robbins,Allan H y Miller, Wilhem C.(2008).ANALISIS DE CIRCUITOS. 
 
 -Simulador de diagramas (https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage)
