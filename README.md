@@ -14,3 +14,4 @@ Analizar y demostrar a través de un medio práctico la ley de voltaje y corrien
 
 2. MARCO TEÓRICO
 
+![](https://user-images.githubusercontent.com/84998005/120406308-26a25d00-c310-11eb-91cd-45971965e094.png)
