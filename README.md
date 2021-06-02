@@ -79,6 +79,8 @@ Tabla 1.3 Verificación de la LCK.
 
 5. VIDEO.
 
+https://www.youtube.com/watch?v=eIJeeAlZrOE 
+
 6. CONCLUSIONES .
 
 -Las medidas del simulador coinciden con las respuestas del proceso matemático.
