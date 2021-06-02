@@ -18,6 +18,10 @@ Analizar y demostrar a través de un medio práctico la ley de voltaje y corrien
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
-MATERIAL 
+3.1 MATERIAL 
+
+![](https://user-images.githubusercontent.com/84998005/120407756-63bc1e80-c313-11eb-8032-494c8cb47d8b.png)
+
+3.2 PROCEDIMIENTO 
 
 
