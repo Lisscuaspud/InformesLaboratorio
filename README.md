@@ -26,7 +26,7 @@ Analizar y demostrar a través de un medio práctico la ley de voltaje y corrien
 
 ![](https://user-images.githubusercontent.com/84998005/120408455-afbb9300-c314-11eb-8ee4-5a80177847dd.png)
 
-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+**Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1**
 
 
 
@@ -36,7 +36,7 @@ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 ![](https://user-images.githubusercontent.com/84998005/120411016-b7ca0180-c319-11eb-94c7-655898fa3a83.png)
 
-Verifique si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados.
+**Verifique si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados.**
 
 Tabla 1.2 Verificación de la LVK.  
 
